@@ -4,7 +4,7 @@ This repository is a personal collection of study materials related to React. It
 
 ### Documentation
 
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Official Documentation]([https://reactjs.org/docs/getting-started.html](https://react.dev/learn))
 - [React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html)
 - [React Router Documentation](https://reactrouter.com/)
 
