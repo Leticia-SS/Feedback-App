@@ -10,5 +10,5 @@ This repository is a personal collection of study materials related to React. It
 
 ### Tutorials
 
-- [React Official Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+- [React Tic Tac Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 
