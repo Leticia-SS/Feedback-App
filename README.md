@@ -1,7 +1,5 @@
 # React Fundamentals
 
-Welcome to the React Fundamentals repository! This repository contains a collection of study materials and resources designed to help you understand and master the basics of React.
-
 This repository is a personal collection of study materials related to React. It includes various resources such as tutorials, documentation, and example projects. The goal is to provide a comprehensive guide to learning React for personal use and improvement.
 
 ### Tutorials
