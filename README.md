@@ -1,4 +1,4 @@
-**# Feedback App
+# Feedback App
 
 This repository contains the sketch for a feedback application project created as part of a learning course. The project demonstrates how to build a basic feedback application using react.
 
